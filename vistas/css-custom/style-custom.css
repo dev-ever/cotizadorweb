@@ -1,0 +1,22 @@
+.borderojo {
+    outline: none;
+    border: 1px solid #f00;
+}
+.bordegris { 
+	border: 1px solid #d4d4d; 
+ 	width: 430px;
+    height: 38px;
+}
+
+label { display: block; }
+
+.observaciones {
+  box-sizing: border-box;
+  font: 12px arial;
+  
+}
+
+/*div.dataTables_wrapper */
+div.dataTables_filter label{
+	text-align: right !important;
+}
